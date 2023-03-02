@@ -1,8 +1,16 @@
-# fastapi_mongodb_crud
+# Fastapi Mongodb Crud
 
 Python, FastAPI, MongoDb, Pydantic (BaseModel), Pymongo
 
-## **Start api:** uvicorn index:app --reload
+## Install
+```
+python -m pip install -r requirements.txt
+```
+## Start api
+```
+uvicorn index:app --reload
+```
+
 
 ## **Front available in:**
 
